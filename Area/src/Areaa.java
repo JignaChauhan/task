@@ -5,7 +5,7 @@ public class Areaa {
     System.out.println("Enter the Value Circel:");
     System.out.println("Enter the Value Square:");
     System.out.println("Enter the Value Rectangle:");
-    System.out.println("Enter your Choice:");
+    System.out.println("Enter your Choice Here:");
    char choice=sc.next().charAt(0);
    switch(choice) {
    case 'a':
